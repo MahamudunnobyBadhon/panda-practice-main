@@ -1,0 +1,26 @@
+.header-bg{
+    background-color: #264653;
+}
+.header-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+.img-grayscale{
+    filter: grayscale(100%);
+}
+.question{
+    color: #E76F51;
+}
+.checked{
+    color: orange;
+}
+.clinet-name{
+    color: #23A6F0;
+}
+.font-weight-bold{
+    font-weight: bold;
+}
